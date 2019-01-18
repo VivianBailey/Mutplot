@@ -14,6 +14,14 @@ Support file format
 
 The current verson works for txt file
 
+Changes
+
+read the release notes
+
 Citation
 
-If you use Mutplot, please include link.
+Zhang W.
+
+Mutplot: an easy-to-use online tool for plotting complex mutation data with flexibility
+
+Journal PMID:###
