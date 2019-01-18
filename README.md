@@ -1,27 +1,27 @@
-About Mutplot
+# About Mutplot
 
-Mutplot is an easy-to-use online tool for plotting complex mutation data with flexibility.
+### Mutplot is an easy-to-use online tool for plotting complex mutation data with flexibility.
 
-Run the app in your computer.
+# Run the app in your computer.
 
-Step1: install R and shiny package.
+### Step1: install R and shiny package.
 
-Step2: save the source code as R scripts and place the files into an app directory.
+### Step2: save the source code as R scripts and place the files into an app directory.
 
-Step3: launch the app in R. 
+### Step3: launch the app in R. 
 
-Support file format
+# Support file format
 
-The current verson works for txt file
+### The current verson works for txt file
 
-Changes
+# Changes
 
-read the release notes
+### Please read the release notes
 
-Citation
+# Citation
 
-Zhang W.
+### Zhang W.
 
-Mutplot: an easy-to-use online tool for plotting complex mutation data with flexibility
+### Mutplot: an easy-to-use online tool for plotting complex mutation data with flexibility
 
-Journal PMID:###
+### Journal PMID:###
