@@ -15,6 +15,7 @@
 ### Step3: launch the app in R. 
 # Support file format
 ### The current verson works for txt file
+### The required columns are Hugo_Symbol, Sample_ID, Protein_Change, and Mutation_Type
 # Changes
 ### Please read the release notes
 # Citation
