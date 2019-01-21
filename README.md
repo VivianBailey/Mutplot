@@ -13,7 +13,7 @@
 
 **Step5: select TP53 in “Gene” session**
 
-**Step6: select 1 in “Amino acid frequency threshold for highlight” session**
+**Step6: select "1" in “Amino acid frequency threshold for highlight” session**
 
 **Step7: select jpeg in “Image file figure format” session**
 
