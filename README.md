@@ -1,6 +1,12 @@
 # About Mutplot
 ### Mutplot is an easy-to-use online tool for plotting complex mutation data with flexibility.
 
+# Support file format
+
+**The current verson works for txt and cvs formats.**
+**The required columns are Hugo_Symbol, Sample_ID, Protein_Change, and Mutation_Type.**
+**An example exampleforuploading.txt can be downloaded.**
+
 # Run the program through web page
 
 **Step1: go to https://bioinformaticstools.shinyapps.io/lollipop/**
@@ -26,11 +32,6 @@
 **Step2: save the source code as R scripts and place the files into an app directory.**
 
 **Step3: launch the app in R.**
-
-# Support file format
-
-**The current verson works for txt file**
-**The required columns are Hugo_Symbol, Sample_ID, Protein_Change, and Mutation_Type**
 
 # Changes
 
