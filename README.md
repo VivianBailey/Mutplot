@@ -7,7 +7,7 @@
 
 **The required columns are Hugo_Symbol, Sample_ID, Protein_Change, and Mutation_Type.**
 
-**An example exampleforuploading.txt can be downloaded.**
+**An example named exampleforuploading.txt can be downloaded.**
 
 # Run the program through web page
 
