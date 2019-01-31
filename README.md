@@ -3,9 +3,11 @@
 
 # Support file format
 
-**The current verson works for txt and cvs formats**
-**The required columns are Hugo_Symbol, Sample_ID, Protein_Change, and Mutation_Type**
-**An example exampleforuploading.txt can be downloaded**
+**The current verson works for txt and cvs formats.**
+
+**The required columns are Hugo_Symbol, Sample_ID, Protein_Change, and Mutation_Type.**
+
+**An example exampleforuploading.txt can be downloaded.**
 
 # Run the program through web page
 
