@@ -1,2 +1,7 @@
-You can use your own gene list in the Gene session
-Change the frequency
+**Creat a different gene list in the "Gene" session**
+
+**Updated the gene names in UniProt.txt with corresponding UniProt ID.**
+
+**Change the frequency in the “Amino acid frequency threshold for highlight” session**
+
+**The current frequency options are 1,2,3,4,5,10,15,20,25, and 30 based on the cut off we often see. You can set up the freqency with any number in ui.r.**
