@@ -1,7 +1,22 @@
-#Creat a different gene list in the "Gene" session
+# Creat a different gene list in the "Gene" session
 
 **Updated the gene names in UniProt.txt with corresponding UniProt ID.**
 
-#Change the frequency in the “Amino acid frequency threshold for highlight” session
+# Change the frequency in the “Amino acid frequency threshold for highlight” session
 
 **The current frequency options are 1,2,3,4,5,10,15,20,25, and 30 based on the cut off we often see. You can set up the freqency with any number in ui.r.**
+
+
+
+# About Mutplot
+### Mutplot is an easy-to-use online tool for plotting complex mutation data with flexibility.
+
+# Support file format
+
+**The current verson works for txt and cvs formats.**
+
+**The required columns are Hugo_Symbol, Sample_ID, Protein_Change, and Mutation_Type.**
+
+**An example named exampleforuploading.txt can be downloaded.**
+
+# Run the program through web page
