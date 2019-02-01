@@ -35,7 +35,7 @@
 
 **Step3: launch the app in R.**
 
-# Changes
+# Updates
 
 **Please read the release notes**
 
