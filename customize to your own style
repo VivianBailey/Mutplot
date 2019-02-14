@@ -9,3 +9,9 @@ Revise the UniProt ID in niProt.txt.
 
 How to revise family and domain information in the plot? 
 DOMAIN AND MOTIF are used in the plot. You can customize the protein domain by adding a UniProt style table with feature key, positions and description. Then use the table instead of the inforamtion retrieved from Uniprot website. You can specify the genes you want to use the customized domain.  
+
+How to use Pfam database in the plot? 
+Use Pfam API for R and retrieve the domain information, then update the plotting parts in the source code correspondingly including how the Pfam retreive the data and how to refer the data. 
+
+How to use both UniProt and Pfam databases in the plot?
+The key is to decide which information resource you want to be uses in the plot.
