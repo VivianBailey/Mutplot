@@ -27,7 +27,7 @@
 
 **Step8: click “Download Plot”**
 
-**Step9: if you want to download the domain information used in the plot, click “Download Domain”. if you want to download the subsetted data used in the plot, click "Download Domain".**
+**Step9: if you want to download the domain information used in the plot, click “Download Domain”. if you want to download the subsetted data used in the plot, click "Download Domain"**
 
 # Run the app in local computer.
 
