@@ -13,17 +13,17 @@
 
 **Step1: go to https://bioinformaticstools.shinyapps.io/lollipop/**
 
-**Step2: browse your local computer to upload exampleforuploading.txt**
+**Step2: bbrowse your local computer to upload a tab/comma-delimited input (an example named exampleforuploading.txt can be downloaded from the Mutplot GitHub website)**
 
-**Step3: select “Header”**
+**Step3: select “Header” if the uploaded input file has headers (if you use exampleforuploading.txt, select “Header”)**
 
-**Step4: select “Tab” in “Separator” session**
+**Step4: select “Tab” or “Comma” in “Separator” session depends on the uploaded input file (if you use exampleforuploading.txt, select “Tab”)**
 
-**Step5: select "TP53" in “Gene” session**
+**Step5: select a gene name in “Gene” session (if you use exampleforuploading.txt, select “TP53”)**
 
-**Step6: select "1" in “Amino acid frequency threshold for highlight” session**
+**Step6: select a number in “Amino acid frequency threshold for highlight” session (if you use exampleforuploading.txt, select “1”)**
 
-**Step7: select "jpeg" in “Image file figure format” session**
+**Step7: select a format in “Image file figure format” session**
 
 **Step8: click “Download Plot”**
 
