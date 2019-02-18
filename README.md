@@ -27,7 +27,7 @@
 
 **Step8: click “Download Plot”**
 
-# Run the app in your computer.
+# Run the app in local computer.
 
 **Step1: install R and shiny package.**
 
