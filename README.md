@@ -13,7 +13,7 @@
 
 **Step1: go to https://bioinformaticstools.shinyapps.io/lollipop/**
 
-**Step2: browse your local computer to upload a tab/comma-delimited input (an example named exampleforuploading.txt can be downloaded from this website)**
+**Step2: browse your local computer to upload a tab/comma-delimited input (an example named exampleforuploading.txt can be downloaded from this website. It is the same as the supporting information S1 Table from the paper)**
 
 **Step3: select “Header” if the uploaded input file has headers (if you use exampleforuploading.txt, select “Header”)**
 
