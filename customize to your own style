@@ -5,7 +5,7 @@ How to change the frequency in the “Amino acid frequency threshold for highlig
 The current frequency options are 1,2,3,4,5,10,15,20,25, and 30 based on the cut off we often see. You can set up the freqency with any number in ui.r.**
 
 How to use different UniProt ID?
-Revise the UniProt ID in niProt.txt.
+Revise the UniProt ID in UniProt.txt.
 
 How to revise family and domain information in the plot? 
 DOMAIN AND MOTIF are used in the plot. You can customize the protein domain by adding a UniProt style table with feature key, positions and description. Then use the table instead of the inforamtion retrieved from Uniprot website. You can specify the genes you want to use the customized domain.  
