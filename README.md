@@ -31,11 +31,13 @@
 
 # Run the app in local computer.
 
-**Step1: install R and shiny package.**
+**Step1: install R, and packages shiny, ggplot2, plyr, httr, drawProteins, ggrepel.**
 
-**Step2: save the source code as R scripts and place the files into an app directory.**
+**Step2: save the source code as R scripts (ui.r and server.r) in a directory.**
 
-**Step3: launch the app in R.**
+**Step3: save the UniProt.txt in the same directory.**
+
+**Step4: launch the app in R using runApp("the directory has the above files").**
 
 # New versions
 
