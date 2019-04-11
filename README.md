@@ -43,6 +43,6 @@
 
 # Citation
 
-**Zhang W.**
+**Zhang W, Wang C, Zhang X**
 **Mutplot: an easy-to-use online tool for plotting complex mutation data with flexibility**
 **Journal PMID:**
