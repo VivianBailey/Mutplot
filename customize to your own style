@@ -2,16 +2,23 @@ How to creat a different gene list in the "Gene" session?
 Add or delete the gene names in UniProt.txt with corresponding UniProt ID.**
 
 How to change the frequency in the “Amino acid frequency threshold for highlight” session?
-The current frequency options are 1,2,3,4,5,10,15,20,25, and 30 based on the cut off we often see. You can set up the freqency with any number in ui.r.**
+The current frequency options are 1,2,3,4,5,10,15,20,25, and 30 based on the cut off we often see. You can set up the freqency with any number in ui.R.**
 
 How to use different UniProt ID?
 Revise the UniProt ID in UniProt.txt.
 
 How to revise family and domain information in the plot? 
-DOMAIN AND MOTIF are used in the plot. You can customize the protein domain by adding a UniProt style table with feature key, positions and description. Then use the table instead of the inforamtion retrieved from Uniprot website. You can specify the genes you want to use the customized domain.  
+DOMAIN, MOTIF, CHAIN, and DNA BIND are used in the plot. You can customize the protein domain by adding a UniProt style table with feature key, positions and description. Then use the table instead of the inforamtion retrieved from Uniprot website. You can specify the genes you want to use the customized domain. 
 
 How to use Pfam database in the plot? 
 Use Pfam API for R and retrieve the domain information, then update the plotting parts in the source code correspondingly including how the Pfam retreive the data and how to refer the data. 
 
 How to use both UniProt and Pfam databases in the plot?
 The key is to decide which information resource you want to be uses in the plot.
+
+How to change highlight colors in the plot?
+Change "orange" and "grey50" to your preferred colors in geom_segment and geom_point in server.R. 
+
+How to change colors for Mutation_Type in the plot?
+If you want to use color name or hexadecimal color codes, add "+scale_color_manual(values="XXX")" in the ggplot command.
+If you want to palettes, install RColorBrewer package and add "+scale_fill_brewer(palette="XXX")" in the ggplot command.
